@@ -1,5 +1,7 @@
 # todo-api
 
+
+
 ```bash
 $ rails new . --api
 $ rails g scaffold todo title completed_at:timestamp
